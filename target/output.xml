@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="83.504038">
+<testcase classname="Facebook Application Validation" name="Facebook validation Using Different Credentials" time="16.303367">
+<system-out><![CDATA[Given User able to launch the Facebook url..................................passed
+When User enters the "Susithra" and "1234"..................................passed
+And User clicks on the User Buuton..........................................passed
+Then User Validates the Error Message.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Facebook Application Validation" name="Facebook validation Using Different Credentials 2" time="15.625129">
+<system-out><![CDATA[Given User able to launch the Facebook url..................................passed
+When User enters the "Sathya@123" and "6789"................................passed
+And User clicks on the User Buuton..........................................passed
+Then User Validates the Error Message.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Facebook Application Validation" name="Facebook validation Using Different Credentials 3" time="37.768234">
+<system-out><![CDATA[Given User able to launch the Facebook url..................................passed
+When User enters the "Pra@1414" and "susi"..................................passed
+And User clicks on the User Buuton..........................................passed
+Then User Validates the Error Message.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Facebook Application Validation" name="Facebook validation Using Different Credentials 4" time="13.807308">
+<system-out><![CDATA[Given User able to launch the Facebook url..................................passed
+When User enters the "Harshi987" and "bhgk".................................passed
+And User clicks on the User Buuton..........................................passed
+Then User Validates the Error Message.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
